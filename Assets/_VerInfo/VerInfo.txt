@@ -1,0 +1,1 @@
+{"list":[{"SocketIp":"116.228.88.149","Port":5555,"Ver":"1.0"},{"SocketIp":"192.168.10.28","Port":5555,"Ver":"1.1"},{"SocketIp":"games.emagroup.cn","Port":5555,"Ver":"99"}],"otherData":1000}
